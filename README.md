@@ -33,10 +33,7 @@
   ```
   Total Sales = quantity * unit price
   ```
-  SQL
-  SELECT * FROM [dbo]
-```
-## DATA VISUALISATION
+  
 
   
 
