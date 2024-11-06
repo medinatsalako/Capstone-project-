@@ -23,7 +23,11 @@
 - SQL for data querying
 - Power BI for data visualisation
 
-## ANALYSIS 
+## EXPLORATORY DATA ANALYSIS 
+### EDA was done to provide answers to the following questions 
+- what are the top selling products
+- what is the overall sales trend
+- which regions has the peak sales
 
 
 
