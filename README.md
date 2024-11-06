@@ -19,6 +19,11 @@
 ### The objective of this sales data analysis report is to analyse an overall sales performance, check customer behaviour, product performance and the general sales trend.
 
 ## Tools
+- Microsoft Excel for data cleaning and Analysis
+- SQL for data querying
+- Power BI for data visualisation
+
+## ANALYSIS 
 
 
 
