@@ -29,5 +29,16 @@
 - what is the overall sales trend
 - which regions has the peak sales
 
+  ## ANALYSIS
+  ```
+  Total Sales = quantity * unit price
+  ```
+  SQL
+  SELECT * FROM [dbo]
+```
+## DATA VISUALISATION
+
+  
+
 
 
