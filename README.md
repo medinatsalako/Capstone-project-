@@ -15,4 +15,7 @@
 - Quantity
 - Unit Price
 
+## OBJECTIVE
+### The objective of this sales data analysis report is to analyse an overall sales performance, check customer behaviour, product performance and the general sales 
+
 
