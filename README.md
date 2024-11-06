@@ -37,11 +37,26 @@ BELOW IS A PICTORIAL REPRESENTATION OF THE ANALYSIS CARRIED OUT WITH MICROSOFT E
 
 
   
+![Screenshot (13)](https://github.com/user-attachments/assets/0f290a47-6cee-4475-b296-a3310c625826)
+![Screenshot (14)](https://github.com/user-attachments/assets/05cabff5-929a-4db1-bb07-d6a18bcde715)
+![Screenshot (12)](https://github.com/user-attachments/assets/b98aeb27-6a87-484c-bb99-c9ff0868b366)
 
 BELOW IS AN EXAMPLE OF SQL QUERY WITH PICTORIAL REPRESENTATION
 ```
 Select * from [dbo]
 ```
+
+
+
+![Screenshot (23)](https://github.com/user-attachments/assets/b0ad0f09-2f71-4e43-8174-8d1f98eeb398)
+
+![Screenshot (24)](https://github.com/user-attachments/assets/d3357ebb-a32c-488d-a1e9-15e5db27ab97)
+
+![Screenshot (26)](https://github.com/user-attachments/assets/8cec294e-070b-46eb-9c74-40e148a05861)
+
+![Screenshot (27)](https://github.com/user-attachments/assets/4dceaaf3-410e-4417-aecc-042c59f07a50)
+
+## DATA VISUALISATION
 
 
 
