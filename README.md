@@ -14,6 +14,8 @@
 
 [ANALYSIS ](#analysis )
 
+[DATA VISUALISATIONS ](data-visualisations)
+
 
 ## PROJECT  OVERVIEW 
 ### This project report provides a detailed analysis of a sales performance over a specified period focusing on regional trends, total revenue/ sales and top selling products.
@@ -71,7 +73,7 @@ Select * from [dbo]
 
 ![Screenshot (27)](https://github.com/user-attachments/assets/4dceaaf3-410e-4417-aecc-042c59f07a50)
 
-## DATA VISUALISATION
+## DATA VISUALISATIONS
 
 
 
