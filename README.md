@@ -1,6 +1,16 @@
-# SALES DATA CAPSTONE PROJECT
+# CAPSTONE PROJECT
+## PROJECT TITLE : SALES DATA
+[OVERVIEW ](project-overview)
 
-## OVERVIEW 
+[DATA SOURCE ](data-source)
+
+[DATA COLLECTION ](data-collection)
+
+[PROJECT OBJECTIVES ](project-Objectives )
+
+
+
+## PROJECT  OVERVIEW 
 ### This project report provides a detailed analysis of a sales performance over a specified period focusing on regional trends, total revenue/ sales and top selling products.
 
 ## DATA SOURCE
@@ -15,7 +25,7 @@
 - Quantity
 - Unit Price
 
-## OBJECTIVE
+## PROJECT OBJECTIVES
 ### The objective of this sales data analysis report is to analyse an overall sales performance, check customer behaviour, product performance and the general sales trend.
 
 ## Tools
