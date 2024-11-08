@@ -1,13 +1,18 @@
 # CAPSTONE PROJECT
 ## PROJECT TITLE : SALES DATA
-[OVERVIEW ](project-overview)
+[PROJECT OVERVIEW ](#project-overview)
 
-[DATA SOURCE ](data-source)
+[DATA SOURCE ](#data-source)
 
-[DATA COLLECTION ](data-collection)
+[DATA COLLECTION ](#data-collection)
 
 [PROJECT OBJECTIVES ](project-Objectives )
 
+[TOOLS ](#tools)
+
+[EXPLORATORY DATA ANALYSIS ](#exploratory-data-analysis )
+
+[ANALYSIS ](#analysis )
 
 
 ## PROJECT  OVERVIEW 
