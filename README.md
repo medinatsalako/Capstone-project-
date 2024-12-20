@@ -89,7 +89,7 @@ BELOW IS A PICTORIAL REPRESENTATION OF THE SALES ANALYSIS REPORT USING POWER BI
 
 ![Screenshot_20241220-002405~2](https://github.com/user-attachments/assets/3cd3050f-9c1d-437b-ae84-0fd3a507fd11)
 
-The summary of the above pictorial representation can further be explined in the table below;
+The summary of the above pictorial representation can further be explained in the table below; highlighting the total number of customers as well the total revenue generated per region.
 
 |REGION         |SOUTH|EAST |NORTH|WEST|
 |---------------|-----|-----|-----|-----|
