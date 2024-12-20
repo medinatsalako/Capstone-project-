@@ -69,7 +69,7 @@ Select * from [dbo]
 
 ![Screenshot (24)](https://github.com/user-attachments/assets/d3357ebb-a32c-488d-a1e9-15e5db27ab97)
 
-![Screenshot (26)](https://github.com/user-attachments/assets/8cec294e-070b-46eb-9c74-40e148a05861)
+r![Screenshot (26)](https://github.com/user-attachments/assets/8cec294e-070b-46eb-9c74-40e148a05861)
 
 ![Screenshot (27)](https://github.com/user-attachments/assets/4dceaaf3-410e-4417-aecc-042c59f07a50)
 
@@ -89,10 +89,19 @@ BELOW IS A PICTORIAL REPRESENTATION OF THE SALES ANALYSIS REPORT USING POWER BI
 
 ![Screenshot_20241220-002405~2](https://github.com/user-attachments/assets/3cd3050f-9c1d-437b-ae84-0fd3a507fd11)
 
-The summary of the above pictorial representation can further be explained in the table below; highlighting the total number of customers as well the total revenue generated per region.
 
 |REGION         |SOUTH|EAST |NORTH|WEST|
 |---------------|-----|-----|-----|-----|
 |REVENUE        |0.93M|0.49M|0.39M|0.30M|
 |NO OF CUSTOMERS|2480 |2483 |2481 |2477 |
+
+The above table evaluates revenue and customer distribution across the regions, highlighting key trends and insights.
+
+It can be seen that the South leads in revenue generation despite having slightly fewer customers than than the East and North regions, suggesting higher revenue per customer. Therefore, a significant revenue reduction as seen with East region indicates a potential undreperformance in per-customer sales despite having the highest number of customers. The North and West regions have almost identical customer counts and revenue, indicating a comparable performance level'
+Below is a table highlighting revenue per customer(RPC) across the regions
+
+|REGION |SOUTH|EAST|NORTH|WEST|
+|-------|-----|----|-----|----|
+|RPC----|#375 |#197|#157 |#157|
+
 
