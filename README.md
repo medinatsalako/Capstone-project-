@@ -94,5 +94,5 @@ The summary of the above pictorial representation can further be explained in th
 |REGION         |SOUTH|EAST |NORTH|WEST|
 |---------------|-----|-----|-----|-----|
 |REVENUE        |0.93M|0.49M|0.39M|0.30M|
-|NO OF CUSTOMERS|2480 |2483 |2480 |2477 |
+|NO OF CUSTOMERS|2480 |2483 |2481 |2477 |
 
