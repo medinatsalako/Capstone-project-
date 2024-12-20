@@ -97,7 +97,8 @@ BELOW IS A PICTORIAL REPRESENTATION OF THE SALES ANALYSIS REPORT USING POWER BI
 
 The above table evaluates revenue and customer distribution across the regions, highlighting key trends and insights.
 
-It can be seen that the South leads in revenue generation despite having slightly fewer customers than than the East and North regions, suggesting higher revenue per customer. Therefore, a significant revenue reduction as seen with East region indicates a potential underperformance in per-customer sales despite having the highest number of customers. The North and West regions have almost identical customer counts and revenue, indicating a comparable performance level.
+It can be seen that the South leads in revenue generation despite having slightly fewer customers than than the East and North regions, suggesting higher revenue per customer.
+Therefore, a significant revenue reduction as seen with East region indicates a potential underperformance in per-customer sales despite having the highest number of customers. The North and West regions have almost identical customer counts and revenue, indicating a comparable performance level.
 Below is a table highlighting revenue per customer(RPC) across the regions.
 
 |REGION |SOUTH|EAST|NORTH|WEST|
