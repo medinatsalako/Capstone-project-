@@ -75,6 +75,16 @@ Select * from [dbo]
 
 ## DATA VISUALISATIONS
 
+BELOW IS A PICTORIAL REPRESENTATION OF THE SALES ANALYSIS REPORT USING POWER BI
+
+
+![Screenshot_20241220-002248~5](https://github.com/user-attachments/assets/136854ef-a84a-4963-aed0-d8080347e6e1)
+
+![Screenshot_20241220-002340~2](https://github.com/user-attachments/assets/c96f387e-c7fe-4d6e-b5ff-720110d8c213)
+
+![Screenshot_20241220-002414~3](https://github.com/user-attachments/assets/3868fe6e-9fea-44e9-ba65-df8f2ce5d882)
+
+![Screenshot_20241220-002350~2](https://github.com/user-attachments/assets/fb211678-f97c-4ec1-80d9-8f42ef1e7b9f)
 
 
 
