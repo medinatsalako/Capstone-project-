@@ -87,4 +87,5 @@ BELOW IS A PICTORIAL REPRESENTATION OF THE SALES ANALYSIS REPORT USING POWER BI
 ![Screenshot_20241220-002350~2](https://github.com/user-attachments/assets/fb211678-f97c-4ec1-80d9-8f42ef1e7b9f)
 
 
+![Screenshot_20241220-002405~2](https://github.com/user-attachments/assets/3cd3050f-9c1d-437b-ae84-0fd3a507fd11)
 
