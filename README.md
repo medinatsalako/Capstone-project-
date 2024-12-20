@@ -102,6 +102,6 @@ Below is a table highlighting revenue per customer(RPC) across the regions
 
 |REGION |SOUTH|EAST|NORTH|WEST|
 |-------|-----|----|-----|----|
-|RPC----|#375 |#197|#157 |#157|
+|RPC    |#375 |#197|#157 |#157|
 
 
